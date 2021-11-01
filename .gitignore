@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FriendlyClock/FriendlyClock/.vs/FriendlyClock/DesignTimeBuild/.dtbcache.v2
+/FriendlyClock/FriendlyClock/.vs
+/FriendlyClock/FriendlyClock/obj
+/FriendlyClock/FriendlyClockTest/obj
+/FriendlyClock/FriendtlyClockMSTest/obj
