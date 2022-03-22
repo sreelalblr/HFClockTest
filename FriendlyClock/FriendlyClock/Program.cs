@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
+/*
+ * Adding some comment
+ */
 namespace FriendlyClock
 {
     class Program
